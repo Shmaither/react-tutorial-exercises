@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://white-snail-owicalsa.ws-us03.gitpod.io",
+    "address": "https://fuchsia-cow-jbp4fp0i.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -223,7 +223,7 @@
         {
             "slug": "04.2-conditional-rendering-ii",
             "title": "04.2-conditional-rendering-ii",
-            "done": false,
+            "done": true,
             "path": "exercises/04.2-conditional-rendering-ii",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "05-adding-styles",
             "title": "05-adding-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05-adding-styles",
             "translations": [
                 "es",
@@ -245,7 +245,7 @@
         {
             "slug": "05.1-second-styles",
             "title": "05.1-second-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-second-styles",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "06-listening-to-events",
             "title": "06-listening-to-events",
-            "done": false,
+            "done": true,
             "path": "exercises/06-listening-to-events",
             "translations": [
                 "es",
