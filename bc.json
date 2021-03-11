@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://plum-tiglon-chntk4td.ws-us03.gitpod.io",
+    "address": "https://white-snail-owicalsa.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -190,7 +190,7 @@
         {
             "slug": "03.5-alert-component",
             "title": "03.5-alert-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.5-alert-component",
             "translations": [
                 "es",
@@ -201,7 +201,7 @@
         {
             "slug": "04-conditional-rendering",
             "title": "04-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04-conditional-rendering",
             "translations": [
                 "es",
@@ -212,7 +212,7 @@
         {
             "slug": "04.1-conditional-rendering",
             "title": "04.1-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-conditional-rendering",
             "translations": [
                 "es",
